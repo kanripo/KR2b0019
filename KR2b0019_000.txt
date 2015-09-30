@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 續資治通鑑長編
+#+DATE: 2015-08-24 22:24:18.246781
+#+PROPERTY: ID KR2b0019
+#+PROPERTY: BASEEDITION WYG    
